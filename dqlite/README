@@ -1,0 +1,5 @@
+Dqlite ("distributed SQLite") extends SQLite across a cluster of machines,
+with automatic failover and high-availability to keep your application running.
+It uses C-Raft, an optimised Raft implementation in C, to gain high-performance
+transactional consensus and fault tolerance while preserving SQlite’s outstanding
+efficiency and tiny footprint.
