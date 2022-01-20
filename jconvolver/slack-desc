@@ -1,0 +1,12 @@
+          |-----handy-ruler------------------------------------------------------|
+jconvolver: Jconvolver
+jconvolver:
+jconvolver: Jconvolver is a command line JACK application using the
+jconvolver: zita-convolver library. Complex convolution matrices can be
+jconvolver: defined in a configuration file. The same configuration file can
+jconvolver: also be used by fconvolver which performs the same operation on
+jconvolver: files rather than real-time.
+jconvolver:
+jconvolver: https://kokkinizita.linuxaudio.org/linuxaudio/
+jconvolver:
+jconvolver:
